@@ -1,2 +1,2 @@
-tab=[u,k,a,w,r]
+tab = ["u", "k", "a", "w", "r"]
 print(tab[1],tab[0],tab[4],tab[3],tab[2])
